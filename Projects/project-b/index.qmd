@@ -1,0 +1,10 @@
+---
+title: "Ariel Liang"
+image: /Users/macbook/Desktop/Zoom1.jpg
+about: 
+    template: jolla
+    links: 
+     - icon: linkedin
+       text: LinkedIn
+       href: https://www.linkedin.com/in/arielmer/
+---
